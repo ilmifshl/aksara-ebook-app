@@ -1,0 +1,1 @@
+export 'view/detailbook_page.dart';
